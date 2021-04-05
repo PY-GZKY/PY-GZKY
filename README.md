@@ -11,3 +11,4 @@
 - 🤔 个人小站点 [太困](http://159.75.96.72/)
 
 
+[![github stats](https://github-readme-stats.vercel.app/api?username=PY-GZKY&show_icons=true)](https://github.com/PY-GZKY)
