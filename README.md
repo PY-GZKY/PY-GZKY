@@ -1,4 +1,4 @@
-### 你根本想象不到我有多困 ![Python](https://img.shields.io/badge/桐哥-2021-blue)👋
+### 桐哥太困 ![Python](https://img.shields.io/badge/桐哥-2021-blue)👋
 
 
 - 🙃 当下坐标广州, 从事 Python 爬虫以及一些后端方面的工作
