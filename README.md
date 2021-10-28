@@ -8,7 +8,7 @@
 ![Python](https://img.shields.io/badge/Mysql-5.7-blue) 
 ![Python](https://img.shields.io/badge/Docker-latest-orange) 
 ![Python](https://img.shields.io/badge/Scrapy-2.3.0-blue)
-- 🤔 个人小站点 [`爬虫饲养`](http://159.75.96.72/)
+- 🤔 个人小站点 [`爬虫饲养`]()
 
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=PY-GZKY&show_icons=true)](https://github.com/PY-GZKY)
