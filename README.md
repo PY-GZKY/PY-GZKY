@@ -1,4 +1,4 @@
-#### 桐哥太困 ![Python](https://img.shields.io/badge/桐哥-2021-blue)👋
+#### ![Python](https://img.shields.io/badge/桐哥-2021-blue)👋
 
 - 🙃 当下坐标广州, 从事 `Python` 爬虫以及一些后端方面的工作
 - 🚀 日常使用技术栈: ![Python](https://img.shields.io/badge/Python-3.8-blue) 
