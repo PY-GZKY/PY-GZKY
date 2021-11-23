@@ -10,7 +10,6 @@
 ![Python](https://img.shields.io/badge/Redis-5.0-orange?logo=Redis&logoColor=orange) 
 ![Python](https://img.shields.io/badge/Docker-latest-orange?logo=Docker&logoColor=orange) 
 ![Python](https://img.shields.io/badge/Scrapy-2.3.0-blue?logo=Scrapy&logoColor=blue)
-
 ![Python](https://img.shields.io/badge/Celery-latest-brightgreen?logo=Celery&logoColor=brightgreen)
 ![Python](https://img.shields.io/badge/Aiorq-latest-yellow?logo=Aiorq&logoColor=yellow)
 ![Python](https://img.shields.io/badge/Supervisor-latest-blue?logo=Supervisor&logoColor=blue)
@@ -20,7 +19,6 @@
 ![Python](https://img.shields.io/badge/Git-latest-blue?logo=Git&logoColor=blue)
 ![Python](https://img.shields.io/badge/Uvicorn-latest-orange?logo=Uvicorn&logoColor=orange)
 ![Python](https://img.shields.io/badge/Gunicorn-latest-blue?logo=Gunicorn&logoColor=blue)
-
 ![Python](https://img.shields.io/badge/NodeJS-latest-blue?logo=Node&logoColor=blue)
 ![Python](https://img.shields.io/badge/JavaScript-latest-brightgreen?logo=JavaScript&logoColor=brightgreen)
 ![Python](https://img.shields.io/badge/微信小程序-orange?logo=微信小程序&logoColor=orange)
