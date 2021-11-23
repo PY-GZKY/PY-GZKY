@@ -12,6 +12,12 @@
 ![Python](https://img.shields.io/badge/Docker-latest-orange) 
 ![Python](https://img.shields.io/badge/Scrapy-2.3.0-blue)
 
+![Python](https://img.shields.io/badge/NodeJS-blue)
+![Python](https://img.shields.io/badge/JavaScript-blue)
+![Python](https://img.shields.io/badge/微信小程序-blue)
+![Python](https://img.shields.io/badge/H5-blue)
+
+
 
 
 <!-- [![github stats](https://github-readme-stats.vercel.app/api?username=PY-GZKY&show_icons=true)](https://github.com/PY-GZKY) -->
