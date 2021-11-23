@@ -12,9 +12,19 @@
 ![Python](https://img.shields.io/badge/Docker-latest-orange) 
 ![Python](https://img.shields.io/badge/Scrapy-2.3.0-blue)
 
+![Python](https://img.shields.io/badge/Celery-brightgreen)
+![Python](https://img.shields.io/badge/Aiorq-yellow)
+![Python](https://img.shields.io/badge/Supervisor-blue)
+![Python](https://img.shields.io/badge/Nginx-yellow)
+![Python](https://img.shields.io/badge/Prometheus-orange)
+![Python](https://img.shields.io/badge/Grafana-blue)
+![Python](https://img.shields.io/badge/Git-blue)
+![Python](https://img.shields.io/badge/Uvicorn-orange)
+![Python](https://img.shields.io/badge/Gunicorn-blue)
+
 ![Python](https://img.shields.io/badge/NodeJS-blue)
-![Python](https://img.shields.io/badge/JavaScript-blue)
-![Python](https://img.shields.io/badge/微信小程序-blue)
+![Python](https://img.shields.io/badge/JavaScript-brightgreen)
+![Python](https://img.shields.io/badge/微信小程序-orange)
 ![Python](https://img.shields.io/badge/H5-blue)
 
 
