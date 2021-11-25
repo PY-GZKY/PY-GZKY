@@ -19,6 +19,7 @@
 ![Python](https://img.shields.io/badge/Git-latest-blue?logo=Git&logoColor=blue)
 ![Python](https://img.shields.io/badge/Uvicorn-latest-orange?logo=Uvicorn&logoColor=orange)
 ![Python](https://img.shields.io/badge/Gunicorn-latest-blue?logo=Gunicorn&logoColor=blue)
+![Python](https://img.shields.io/badge/uWsgi-latest-blue?logo=uWsgi&logoColor=brightgreen)
 ![Python](https://img.shields.io/badge/NodeJS-latest-blue?logo=Node&logoColor=blue)
 ![Python](https://img.shields.io/badge/JavaScript-latest-brightgreen?logo=JavaScript&logoColor=brightgreen)
 ![Python](https://img.shields.io/badge/微信小程序-orange?logo=微信小程序&logoColor=orange)
