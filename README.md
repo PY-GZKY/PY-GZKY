@@ -26,6 +26,7 @@
 ![Python](https://img.shields.io/badge/uWsgi-latest-brightgreen?logo=uWsgi&logoColor=brightgreen)
 ![Python](https://img.shields.io/badge/NodeJS-latest-blue?logo=Node&logoColor=blue)
 ![Python](https://img.shields.io/badge/JavaScript-latest-brightgreen?logo=JavaScript&logoColor=brightgreen)
+![Python](https://img.shields.io/badge/Hexo-latest-blue?logo=Hexo&logoColor=blue)
 ![Python](https://img.shields.io/badge/微信小程序-orange?logo=微信小程序&logoColor=orange)
 
 
