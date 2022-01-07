@@ -2,7 +2,10 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8-blue?logo=python&logoColor=blue) 
 ![Python](https://img.shields.io/badge/Python-3.9-orange?logo=python&logoColor=orange) 
+![Python](https://img.shields.io/badge/Golang-1.7+-blue?logo=Golang&logoColor=blue) 
 ![Python](https://img.shields.io/badge/Vue-3.0-green?logo=Vue&logoColor=green)
+![Python](https://img.shields.io/badge/Gin-green?logo=Gin&logoColor=green)
+![Python](https://img.shields.io/badge/Iris-yellow?logo=Iris&logoColor=yellow) 
 ![Django](https://img.shields.io/badge/Django-3.0-brightgreen?logo=Django&logoColor=brightgreen)
 ![Django](https://img.shields.io/badge/djangorestframework-3.0-brightgreen?logo=djangorestframework&logoColor=brightgreen)
 ![Python](https://img.shields.io/badge/FastApi-latest-yellow?logo=FastApi&logoColor=yellow) 
