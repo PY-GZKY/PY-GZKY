@@ -1,6 +1,4 @@
-#### ![Python](https://img.shields.io/badge/桐哥-2022-blue)
-
-![Python](https://img.shields.io/badge/Python-3.8-blue?logo=python&logoColor=blue) 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=blue) 
 ![Python](https://img.shields.io/badge/Python-3.9-orange?logo=python&logoColor=orange) 
 ![Python](https://img.shields.io/badge/Golang-1.7+-blue?logo=Golang&logoColor=blue) 
 ![Python](https://img.shields.io/badge/Vue-3.0-green?logo=Vue&logoColor=green)
